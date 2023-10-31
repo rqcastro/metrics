@@ -1,0 +1,30 @@
+,taskID,planned,realized,difference,name,mnemonic
+0,TS-14799,1.0,2.25,1.25,Documentation Review,comp-hotels
+1,TS-15016,8.0,6.25,-1.75,Document new dashboard and check the old one,cmbs-comps
+2,TS-15152,9.0,0.25,-8.75,Implement Basic Quality Control,pt-residential
+3,TS-15592,4.0,5.75,1.75,Review Doc and add to products Page,self-storage
+4,TS-15770,1.0,1.5,0.5,Review Documentation,hotel-str
+5,TS-15831,1.0,0.25,-0.75,Email TOC team of the discontinuation of the process,quality-ctrl
+6,TS-16145,18.0,4.5,-13.5,Analyze query performance part by part and possibly create materialized views,ind-inventory
+7,TS-16965,2.0,1.75,-0.25,Project Leadership 2023w41,office-demand
+8,TS-16966,2.0,2.5,0.5,Project Leadership 2023w41,hotel-str
+9,TS-16967,3.0,1.0,-2.0,Project Leadearship 2023w41,corporate-relocation
+10,TS-16968,3.0,3.0,0.0,Project Leadearship 2023w41,dallas-relocations
+11,TS-16972,1.0,0.0,-1.0,Check execution of mortgages rates ETL,uk-housing
+12,TS-16974,5.0,4.5,-0.5,Price Filter in dashboard,comp-hotels
+13,TS-16982,6.0,3.75,-2.25,Viz issue on specific hotels,hotel-str
+14,TS-16993,1.0,0.5,-0.5,Tests Summary and effort estimation for test fixing,hotel-str
+15,TS-17003,8.0,5.5,-2.5,Adapt Dashboard,office-demand
+16,TS-17033,3.0,3.75,0.75,Get acquainted with the existing codebase,private-funds
+17,TS-17045,5.0,15.25,10.25,Update script to incorporate preliminary data,private-funds
+18,TS-17046,4.0,3.5,-0.5,Report estimatives to Alireza,private-funds
+19,TS-17047,3.0,3.25,0.25,Productionalize script schedule,private-funds
+20,TS-17048,6.0,6.5,0.5,Manual update data (new data arrival),private-funds
+21,TS-17050,2.0,1.25,-0.75,check occupancy Calculation,hotel-str
+22,TS-17051,1.0,1.25,0.25,change the labels behaviors’ - do not hide when overlapping,hotel-str
+23,TS-17052,3.0,3.25,0.25,add a “all” line to charts,hotel-str
+24,TS-17058,7.0,8.75,1.75,Cost Breakdown ,corporate-relocation
+25,TS-17085,1.0,1.5,0.5,Estimate Effort for SFTP/Acuity,office-demand
+26,TS-17088,4.0,2.75,-1.25,Incorporate Mapping Table,office-demand
+27,TS-17089,16.0,12.75,-3.25,Tripple toggle (Regular/YoY Change/2019 Change),office-demand
+28,TS-17093,3.0,4.25,1.25,Test SQL Server tables,private-funds
